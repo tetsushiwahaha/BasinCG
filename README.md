@@ -1,5 +1,7 @@
 #basinCG
 
+<img align="center" src="https://user-images.githubusercontent.com/52724526/85823990-b020e500-b7b9-11ea-8064-abbd4f4615ae.png">
+
 「CによるカオスCG」オマケ <棲み分け図> 作成のしおり 
 
 * 1st.	Sat Jun 25 15:00:01 JST 1994
