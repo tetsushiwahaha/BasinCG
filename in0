@@ -1,0 +1,8 @@
+0.6 0.96	4.0			/* a, b and c */
+-40. 40.0			/* xmin xmax */
+-40. 40.0			/* ymin ymax */
+2000 2000				/* width and height */
+2000				/* mapmax */
+1000.0				/* divergence */
+1e-7				/* eps */
+1e-6				/* eps */
